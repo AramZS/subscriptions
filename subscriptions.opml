@@ -273,6 +273,7 @@
 			<outline text="The Mary Sue" title="The Mary Sue" type="rss" xmlUrl="http://www.themarysue.com/feed/" htmlUrl="http://www.themarysue.com"/>
 			<outline text="Verb Science" title="Verb Science" type="rss" xmlUrl="http://www.verbscience.com/feed/" htmlUrl="http://www.verbscience.com"/>
 			<outline text="ÜberDrivel" title="ÜberDrivel" type="rss" xmlUrl="http://udrivel.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://udrivel.blogspot.com/"/>
+			<outline text="Crazy Days and Nights" title="Crazy Days and Nights"  type="rss" xmlUrl="http://feeds.feedburner.com/crazydaysandnights/eynQ" htmlUrl="http://www.crazydaysandnights.net" />
 			</outline>
 		<outline text="Thinking about Games" title="Thinking about Games">
 			<outline text="(title unknown)" title="(title unknown)" type="rss" xmlUrl="http://www.pressplaytogrow.com/blog-news/itemlist/user/62-mosessilbigerma.feed?type=rss" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fwww.pressplaytogrow.com%2Fblog-news%2Fitemlist%2Fuser%2F62-mosessilbigerma.feed%3Ftype%3Drss"/>
@@ -775,6 +776,7 @@
 			<outline text="Marco" created="Wed, 15 Jan 2014 19:52:09 GMT" type="rss" xmlUrl="http://www.marco.org/rss"/>
 			<outline text="Re/Code" created="Wed, 15 Jan 2014 20:16:11 GMT" type="rss" xmlUrl="http://recode.net/feed/"/>
 			<outline text="Ethan Marcotte" created="Tue, 05 Sep 2017 11:48:11 EST" type="rss" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml"/>
+			<outline text="Real Life Mag" created="Mon, 05 Feb 2018 11:48:11 EST" type="rss" xmlUrl="http://reallifemag.com/feed"/>
 			</outline>
 		<outline text="Twitter" title="Twitter">
 			<outline text="#collegejourn - Twitter Search" title="#collegejourn - Twitter Search" type="rss" xmlUrl="http://search.twitter.com/search.atom?q=%23collegejourn" htmlUrl="http://search.twitter.com/search?q=%23collegejourn"/>
