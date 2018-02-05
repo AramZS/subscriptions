@@ -775,6 +775,8 @@
 			<outline text="SocialTimes" created="Tue, 19 Nov 2013 18:50:58 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/socialtimes" htmlUrl="http://socialtimes.com/" title="SocialTimes"/>
 			<outline text="Marco" created="Wed, 15 Jan 2014 19:52:09 GMT" type="rss" xmlUrl="http://www.marco.org/rss"/>
 			<outline text="Re/Code" created="Wed, 15 Jan 2014 20:16:11 GMT" type="rss" xmlUrl="http://recode.net/feed/"/>
+			<outline text="Ethan Marcotte" created="Tue, 05 Sep 2017 11:48:11 EST" type="rss" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml"/>
+			<outline text="Real Life Mag" created="Mon, 05 Feb 2018 11:48:11 EST" type="rss" xmlUrl="http://reallifemag.com/feed"/>
 			</outline>
 		<outline text="Twitter" title="Twitter">
 			<outline text="#collegejourn - Twitter Search" title="#collegejourn - Twitter Search" type="rss" xmlUrl="http://search.twitter.com/search.atom?q=%23collegejourn" htmlUrl="http://search.twitter.com/search?q=%23collegejourn"/>
